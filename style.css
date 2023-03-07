@@ -6,7 +6,7 @@
 }
 
 .st_section{
-  background-image: url(Img/bac1.jpg);
+  background-image: url(img/bac1.jpg);
   height: 500px;
   background-size: cover;
   max-width: 100%;
@@ -61,7 +61,7 @@
 }
 
 .st_section2{
-  background-image: url(Img/bac002.jpg);
+  background-image: url(img/bac002.jpg);
   height: 600px;
   background-size: cover;
   max-width: 100%;
@@ -107,7 +107,7 @@
   width: 500px;
 }
 .mlw{
-  background-image: url(Img/bac3.jpg);
+  background-image: url(img/bac3.jpg);
   height: 500px;
   background-size: cover;
   max-width: 100%;
